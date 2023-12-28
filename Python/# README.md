@@ -5,6 +5,7 @@ Welcome to the Python solutions section of my Project Euler repository. In this 
 ## List of Solutions
 
 - [Problem 1](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/1.py): Multiples of 3 or 5
+- [Problem 2](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/2.py): Even Fibonacci Numbers
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/XX.py): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.
