@@ -8,8 +8,8 @@ Welcome to my GitHub repository dedicated to solutions for [Project Euler](https
 
 ## Solutions
 
-- [Python: 0 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/#%20README.md)
-- [JavaScript: 0 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/#%20README.md)
+- [Python: 1 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/#%20README.md)
+- [JavaScript: 1 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/#%20README.md)
 
 ## Contribution Notice
 
