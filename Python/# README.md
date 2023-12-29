@@ -8,6 +8,7 @@ Welcome to the Python solutions section of my Project Euler repository. In this 
 - [Problem 2](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/2.py): Even Fibonacci Numbers
 - [Problem 3](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/3.py): Largest Prime Factor
 - [Problem 4](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/4.py): Largest Palindrome Product
+- [Problem 5](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/5.py): Smallest Multiple
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/XX.py): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.
