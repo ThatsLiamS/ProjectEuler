@@ -9,6 +9,7 @@ Welcome to the JavaScript solutions section of my Project Euler repository. In t
 - [Problem 3](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/3.js): Largest Prime Factor
 - [Problem 4](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/4.js): Largest Palindrome Product
 - [Problem 5](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/5.js): Smallest Multiple
+- [Problem 6](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/6.js): Sum Square Difference
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/XX.js): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.
