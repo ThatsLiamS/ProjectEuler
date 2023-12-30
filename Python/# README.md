@@ -13,6 +13,8 @@ Welcome to the Python solutions section of my Project Euler repository. In this 
 - [Problem 7](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/7.py): 10001st Prime
 - [Problem 8](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/8.py): Largest Product in a Series
 - [Problem 9](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/9.py): Special Pythagorean Triplet
+- [Problem 10](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/10.py): Summation of Primes
+- [Problem 11](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/11.py): Largest Product in a Grid
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/XX.py): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.

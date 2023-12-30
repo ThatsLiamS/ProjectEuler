@@ -1,5 +1,5 @@
 """
-Task  Nine: Special Pythagorean Triplet
+Task Nine: Special Pythagorean Triplet
 
 A Pythagorean triplet is a set of three natural numbers,
   a < b < c, for which,  a^2 + b^2 = c^2
@@ -25,7 +25,6 @@ for a in range (1, 1000):
 		c = isValidTriplet(a, b)
 		if (c and (a + b + c) == 1000):
 			print( f'{a * b * c:.0f}' )
-
 
 			solved = True
 			break
