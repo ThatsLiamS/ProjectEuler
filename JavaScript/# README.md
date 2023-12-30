@@ -10,6 +10,9 @@ Welcome to the JavaScript solutions section of my Project Euler repository. In t
 - [Problem 4](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/4.js): Largest Palindrome Product
 - [Problem 5](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/5.js): Smallest Multiple
 - [Problem 6](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/6.js): Sum Square Difference
+- [Problem 7](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/7.js): 10001st Prime
+- [Problem 8](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/8.js): Largest Product in a Series
+- [Problem 9](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/9.js): Special Pythagorean Triplet
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/XX.js): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.
