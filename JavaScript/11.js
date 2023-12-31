@@ -1,5 +1,5 @@
 /*
-Task Eleven:
+Task Eleven: Largest Product in a Grid
 
 In the 20 * 20 grid below, four numbers along a diagonal line have been marked in red.
 
