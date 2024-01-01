@@ -16,6 +16,7 @@ Welcome to the JavaScript solutions section of my Project Euler repository. In t
 - [Problem 10](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/10.js): Summation of Primes
 - [Problem 11](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/11.js): Largest Product in a Grid
 - [Problem 12](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/12.js): Highly Divisible Triangular Number
+- [Problem 13](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/13.js): Large Sum
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/XX.js): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.

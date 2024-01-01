@@ -8,8 +8,10 @@ Welcome to my GitHub repository dedicated to solutions for [Project Euler](https
 
 ## Solutions
 
-- [Python: 12 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/%23%20README.md)
-- [JavaScript: 12 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/%23%20README.md)
+As of now, a total of 26 solutions have been implemented using two different programming languages.
+
+- [Python: 13 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/%23%20README.md)
+- [JavaScript: 13 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/%23%20README.md)
 
 ## Contribution Notice
 
