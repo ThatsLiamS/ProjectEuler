@@ -17,6 +17,7 @@ Welcome to the Python solutions section of my Project Euler repository. In this 
 - [Problem 11](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/11.py): Largest Product in a Grid
 - [Problem 12](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/12.py): Highly Divisible Triangular Number
 - [Problem 13](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/13.py): Large Sum
+- [Problem 14](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/14.py): Longest Collatz Sequence
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/XX.py): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.
