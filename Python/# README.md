@@ -19,6 +19,8 @@ Welcome to the Python solutions section of my Project Euler repository. In this 
 - [Problem 13](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/13.py): Large Sum
 - [Problem 14](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/14.py): Longest Collatz Sequence
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/XX.py): -->
+- [Problem 20](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/20.py): Factorial Digit Sum
+<!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/XX.py): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.
 
