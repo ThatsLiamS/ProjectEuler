@@ -24,6 +24,11 @@ Welcome to the Python solutions section of my Project Euler repository. In this 
 <!-- - [Problem 18](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/18.py): -->
 <!-- - [Problem 19](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/19.py): -->
 - [Problem 20](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/20.py): Factorial Digit Sum
+<!-- - [Problem 21](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/21.py): -->
+<!-- - [Problem 22](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/22.py): -->
+<!-- - [Problem 23](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/23.py): -->
+<!-- - [Problem 24](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/24.py): -->
+- [Problem 25](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/25.py): 1000-digit Fibonacci Number
 <!-- - [Problem XX](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/XX.py): -->
 
 Feel free to explore the solutions and gain insights into my approach to solving these problems.

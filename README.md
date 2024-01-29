@@ -8,10 +8,10 @@ Welcome to my GitHub repository dedicated to solutions for [Project Euler](https
 
 ## Solutions
 
-As of now, 16 solutions have been implemented across three different programming languages.
+As of now, 17 solutions have been implemented across three different programming languages.
 
 - [JavaScript: 14 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/JavaScript/%23%20README.md)
-- [Python: 16 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/%23%20README.md)
+- [Python: 17 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Python/%23%20README.md)
 - [Java: 7 Solutions](https://github.com/ThatsLiamS/ProjectEuler/blob/main/Java/%23%20README.md)
 
 ## Contribution Notice
